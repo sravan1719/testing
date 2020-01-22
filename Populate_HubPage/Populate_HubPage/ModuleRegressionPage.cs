@@ -72,7 +72,7 @@ namespace Populate_HubPage
                 if (value!= null)
                     count=2;
             }
-            catch(Exception e) { }
+            catch(Exception) { }
             return count;
         }
 

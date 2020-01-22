@@ -92,3 +92,5 @@ D:\DotNet\Populate_HubPage\Populate_HubPage\bin\Debug\netcoreapp3.0\Populate_Hub
 D:\DotNet\Populate_HubPage\Populate_HubPage\bin\Debug\netcoreapp3.0\SeleniumExtras.WaitHelpers.dll
 D:\DotNet\Populate_HubPage\Populate_HubPage\obj\Debug\netcoreapp3.0\Populate_HubPage.dll
 D:\DotNet\Populate_HubPage\Populate_HubPage\obj\Debug\netcoreapp3.0\Populate_HubPage.pdb
+D:\DotNet\Populate_HubPage\Populate_HubPage\obj\Debug\netcoreapp3.0\Populate_HubPage.csprojAssemblyReference.cache
+D:\DotNet\Populate_HubPage\Populate_HubPage\obj\Debug\netcoreapp3.0\Populate_HubPage.csproj.ResolveComReference.cache

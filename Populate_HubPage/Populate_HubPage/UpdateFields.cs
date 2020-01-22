@@ -8,6 +8,7 @@ namespace Populate_HubPage
     {
         ModuleRegressionPage modulePage = new ModuleRegressionPage();
         LoopItTest loopIt = new LoopItTest();
+        ReadExcelData data = new ReadExcelData();
 
         [Test]
         public void UpdateModuleRegressionFields()
@@ -20,6 +21,12 @@ namespace Populate_HubPage
             modulePage.UpdateResults("Related Information", "UI Mobile");
             modulePage.ClickCancelButton();
             //modulePage.UpdateResults("UI Miscellaneous");
+        }
+
+        [Test]
+        public void ReadData()
+        {
+            data.getExcelFile();
         }
 
         [Test]
