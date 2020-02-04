@@ -140,15 +140,6 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
-        "type": "package",
-        "compile": {
-          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
-        },
-        "runtime": {
-          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
-        }
-      },
       "Microsoft.TestPlatform.ObjectModel/15.9.0": {
         "type": "package",
         "dependencies": {
@@ -1670,18 +1661,6 @@
         "microsoft.netcore.targets.1.1.0.nupkg.sha512",
         "microsoft.netcore.targets.nuspec",
         "runtime.json"
-      ]
-    },
-    "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
-      "sha512": "DfceS96ustwfL8EOJNNRtpk6b0RylhjNpgeeemuvi9X4GYks2UTeAimjSrdFEfuqRo5ibZ4Sd0gJIeDr9gMa6Q==",
-      "type": "package",
-      "path": "microsoft.office.interop.excel/15.0.4795.1000",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net20/Microsoft.Office.Interop.Excel.dll",
-        "microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512",
-        "microsoft.office.interop.excel.nuspec"
       ]
     },
     "Microsoft.TestPlatform.ObjectModel/15.9.0": {
@@ -5246,7 +5225,6 @@
     ".NETCoreApp,Version=v3.0": [
       "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "Microsoft.Office.Interop.Excel >= 15.0.4795.1000",
       "NUnit3TestAdapter >= 3.12.0",
       "Selenium.WebDriver >= 3.141.0",
       "nunit >= 3.11.0"
@@ -5259,11 +5237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
+      "projectUniqueName": "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
       "projectName": "Populate_HubPage",
-      "projectPath": "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
+      "projectPath": "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
       "packagesPath": "C:\\Users\\hi\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\obj\\",
+      "outputPath": "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5301,10 +5279,6 @@
             "target": "Package",
             "version": "[15.9.0, )"
           },
-          "Microsoft.Office.Interop.Excel": {
-            "target": "Package",
-            "version": "[15.0.4795.1000, )"
-          },
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[3.12.0, )"
@@ -5336,17 +5310,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Office.Interop.Excel 15.0.4795.1000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.Office.Interop.Excel",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.0"
-      ]
-    }
-  ]
+  }
 }

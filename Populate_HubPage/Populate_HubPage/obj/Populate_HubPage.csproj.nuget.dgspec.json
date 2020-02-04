@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj": {}
+    "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj": {
+    "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
+        "projectUniqueName": "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
         "projectName": "Populate_HubPage",
-        "projectPath": "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
+        "projectPath": "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\Populate_HubPage.csproj",
         "packagesPath": "C:\\Users\\hi\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Populate_HubPage\\Populate_HubPage\\obj\\",
+        "outputPath": "D:\\Automation_Task\\testing\\Populate_HubPage\\Populate_HubPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,10 +48,6 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[15.9.0, )"
-            },
-            "Microsoft.Office.Interop.Excel": {
-              "target": "Package",
-              "version": "[15.0.4795.1000, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",

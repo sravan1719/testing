@@ -1,0 +1,21 @@
+Type,Area,Test Suite Name,Date,Demo,QED,Demo (Edge),QED (Edge),Notes
+Module,Website,UI Alerts,Jan-31,96,92,95,95,Bug:1349687
+Module,Search,UI Metadata,Jan-31,100,100,,,
+Module,Search,UI Miscellaneous,Jan-31,94,95,90,100,
+Module,Website,UI Delivery,Jan-31,92,100,92,96,Bug:1349687
+Feature,Westlaw Edge Features,Procedural Posture,Jan-31,,,100,100,
+Feature,Westlaw Features,BLC SEC Fillings - Section Search x-Q and x-F documents,Jan-31,100,100,100,100,
+Feature,Westlaw Features,BLC Deals,Jan-31,100,100,100,100,
+Feature,Westlaw Features,BLC Non-Billable,Jan-31,100,100,100,100,
+Feature,Westlaw Features,BLC Funds,Jan-31,100,100,100,100,bug
+Feature,Westlaw Features,BLC SEC Filings - Section Search x-K documents,Jan-31,100,100,100,100,
+Feature,Westlaw Edge Features,Negative History,Jan-31,,,100,100,
+Feature,Legal Solutions,Government Weblinks,Jan-31,100,100,,,
+Feature,Westlaw Features,BLC PowerSearch,Jan-31,88,84,100,100,bug
+Feature,Westlaw Edge Features,Citing Reference Count,Jan-31,,,100,100,
+Feature,Westlaw Features,WLN Tax Live Chat,Jan-28,,100,,100,
+Feature,Westlaw Edge Features,Tray,Jan-31,,,100,100,
+Feature,Westlaw Edge Features,HomePageTour,Jan-31,,,100,100,
+Feature,Westlaw Edge Features,Factours Court Consider,Jan-31,,,100,100,
+Feature,Westlaw Features,Retain Search,Jan-31,100,100,100,100,
+Feature,WLN Product Views,CaseNotebook UI,Jan-31,100,100,,,
